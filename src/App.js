@@ -2,7 +2,7 @@ import react from "react"
 
 const App = () => {
     return (
-	<div></div>
+	<div>Build Random</div>
     )
 }
 
